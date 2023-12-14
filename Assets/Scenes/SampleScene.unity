@@ -346,15 +346,10 @@ MonoBehaviour:
     radius: 5
   - position: {x: 0, y: 0, z: 0}
     radius: 5
-  - position: {x: 3, y: 5, z: -5}
-    radius: 10
-  - position: {x: 10, y: 10, z: 10}
-    radius: 3
   boundingBoxPrefab: {fileID: 5784328960947600277, guid: 5f3cbb655a5654943a9d374c174d8754, type: 3}
   cubePrefab: {fileID: 4308399781625521379, guid: 52a6a654a3354bc4dadca8708032b3d9, type: 3}
   cubeSize: 1
-  operation: 0
-  boundingBox: {fileID: 0}
+  operation: 1
 --- !u!4 &1053055018
 Transform:
   m_ObjectHideFlags: 0
